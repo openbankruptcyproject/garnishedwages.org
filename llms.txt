@@ -1,0 +1,15 @@
+# garnishedwages.org
+
+> How bankruptcy stops wage garnishment through the automatic stay.
+
+garnishedwages.org is a free, open-source educational resource. Part of the Bankruptcy Transparency Network.
+
+## Pages
+
+- https://garnishedwages.org/ -- How bankruptcy stops wage garnishment
+- https://garnishedwages.org/emergency-filing.html -- Emergency bare-bones filing to stop garnishment
+- https://garnishedwages.org/getting-money-back.html -- Recovering garnished wages as preferential transfers
+
+## Contact
+
+This site is maintained by volunteers. No legal advice is provided.
