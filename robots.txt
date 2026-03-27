@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://garnishedwages.org/sitemap.xml
