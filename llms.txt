@@ -1,15 +1,23 @@
-# garnishedwages.org
+# Wage Garnishment -- How to Stop It [2026] -- Garnishedwages
+> Stop wage garnishment with bankruptcy, exemptions, or negotiation. Learn federal and state limits, and how to fight back. 2026 guide.
 
-> How bankruptcy stops wage garnishment through the automatic stay.
+## About
+garnishedwages.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
-garnishedwages.org is a free, open-source educational resource. Part of the Bankruptcy Transparency Network.
-
-## Pages
-
-- https://garnishedwages.org/ -- How bankruptcy stops wage garnishment
-- https://garnishedwages.org/emergency-filing.html -- Emergency bare-bones filing to stop garnishment
-- https://garnishedwages.org/getting-money-back.html -- Recovering garnished wages as preferential transfers
+## Key Pages
+- Emergency Bankruptcy Filing to Stop Garnishment -- Garnishedwages: https://garnishedwages.org/emergency-filing.html
+- Exempt Income from Wage Garnishment in Bankruptcy -- Garnishedwages: https://garnishedwages.org/exempt-income.html
+- Getting Garnished Money Back in Bankruptcy -- Garnishedwages: https://garnishedwages.org/getting-money-back.html
+- Head of Household Garnishment Exemption -- Garnishedwages: https://garnishedwages.org/head-of-household.html
+- Wage Garnishment -- How to Stop It [2026] -- Garnishedwages: https://garnishedwages.org/
+- Stop Wage Garnishment with Bankruptcy -- How It Works -- Garnishedwages: https://garnishedwages.org/stop-garnishment.html
+- How Fast Does Bankruptcy Stop Garnishment? -- Timeline -- Garnishedwages: https://garnishedwages.org/timeline.html
+- Wage Garnishment vs Bankruptcy -- Which Is Better? -- Garnishedwages: https://garnishedwages.org/vs-payment-plan.html
 
 ## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
 
-This site is maintained by volunteers. No legal advice is provided.
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
