@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://garnishedwages.org/sitemap.xml
+
+Sitemap: https://garnishedwages.org/sitemapindex.xml
