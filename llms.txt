@@ -1,5 +1,5 @@
 # Wage Garnishment - How to Stop It [2026] - Garnishedwages
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 > Stop wage garnishment with bankruptcy, exemptions, or negotiation. Learn federal and state limits, and how to fight back. 2026 guide.
 
@@ -8,14 +8,67 @@ garnishedwages.org is part of the Open Bankruptcy Project (openbankruptcyproject
 
 ## Key Pages
 - Emergency Bankruptcy Filing to Stop Garnishment - Garnishedwages: https://garnishedwages.org/emergency-filing.html
-- Exempt Income from Wage Garnishment in Bankruptcy - Garnishedwages: https://garnishedwages.org/exempt-income.html
+- Exempt Income from Wage Garnishment in Bankruptcy [2026]: Federal Benefits Under 42 USC 407: https://garnishedwages.org/exempt-income.html
 - Getting Garnished Money Back in Bankruptcy - Garnishedwages: https://garnishedwages.org/getting-money-back.html
-- Head of Household Garnishment Exemption - Garnishedwages: https://garnishedwages.org/head-of-household.html
+- Head of Household Garnishment Exemption [2026]: Florida and Texas Protect 100% of Wages: https://garnishedwages.org/head-of-household.html
 - Wage Garnishment - How to Stop It [2026] - Garnishedwages: https://garnishedwages.org/
-- Stop Wage Garnishment with Bankruptcy - How It Works - Garnishedwages: https://garnishedwages.org/stop-garnishment.html
-- How Fast Does Bankruptcy Stop Garnishment? - Timeline - Garnishedwages: https://garnishedwages.org/timeline.html
-- Wage Garnishment vs Bankruptcy - Which Is Better? - Garnishedwages: https://garnishedwages.org/vs-payment-plan.html
+- Stop Wage Garnishment with Bankruptcy [2026]: 11 USC 362 Automatic Stay Takes Effect Instantly: https://garnishedwages.org/stop-garnishment.html
+- How Fast Bankruptcy Stops Garnishment [2026]: 11 USC 362(a) Stay Effective at Filing: https://garnishedwages.org/timeline.html
+- Wage Garnishment vs Bankruptcy [2026]: 25% CCPA Cap Versus 0% Stay and Discharge: https://garnishedwages.org/vs-payment-plan.html
 - Privacy Policy: https://garnishedwages.org/privacy.html
+- About garnishedwages.org: https://garnishedwages.org/about.html
+- Wage Garnishment in Alabama [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/alabama.html
+- Wage Garnishment in Alaska [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/alaska.html
+- Wage Garnishment in Arizona [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/arizona.html
+- Wage Garnishment in Arkansas [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/arkansas.html
+- Wage Garnishment in California [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/california.html
+- Wage Garnishment in Colorado [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/colorado.html
+- Wage Garnishment in Connecticut [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/connecticut.html
+- Wage Garnishment in Delaware [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/delaware.html
+- Wage Garnishment in District of Columbia [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/district-of-columbia.html
+- Wage Garnishment in Florida [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/florida.html
+- Wage Garnishment in Georgia [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/georgia.html
+- Wage Garnishment in Hawaii [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/hawaii.html
+- Wage Garnishment in Idaho [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/idaho.html
+- Wage Garnishment in Illinois [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/illinois.html
+- Wage Garnishment Limits by State: https://garnishedwages.org/states/
+- Wage Garnishment in Indiana [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/indiana.html
+- Wage Garnishment in Iowa [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/iowa.html
+- Wage Garnishment in Kansas [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/kansas.html
+- Wage Garnishment in Kentucky [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/kentucky.html
+- Wage Garnishment in Louisiana [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/louisiana.html
+- Wage Garnishment in Maine [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/maine.html
+- Wage Garnishment in Maryland [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/maryland.html
+- Wage Garnishment in Massachusetts [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/massachusetts.html
+- Wage Garnishment in Michigan [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/michigan.html
+- Wage Garnishment in Minnesota [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/minnesota.html
+- Wage Garnishment in Mississippi [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/mississippi.html
+- Wage Garnishment in Missouri [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/missouri.html
+- Wage Garnishment in Montana [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/montana.html
+- Wage Garnishment in Nebraska [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/nebraska.html
+- Wage Garnishment in Nevada [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/nevada.html
+- Wage Garnishment in New Hampshire [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/new-hampshire.html
+- Wage Garnishment in New Jersey [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/new-jersey.html
+- Wage Garnishment in New Mexico [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/new-mexico.html
+- Wage Garnishment in New York [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/new-york.html
+- Wage Garnishment in North Carolina [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/north-carolina.html
+- Wage Garnishment in North Dakota [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/north-dakota.html
+- Wage Garnishment in Ohio [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/ohio.html
+- Wage Garnishment in Oklahoma [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/oklahoma.html
+- Wage Garnishment in Oregon [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/oregon.html
+- Wage Garnishment in Pennsylvania [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/pennsylvania.html
+- Wage Garnishment in Rhode Island [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/rhode-island.html
+- Wage Garnishment in South Carolina [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/south-carolina.html
+- Wage Garnishment in South Dakota [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/south-dakota.html
+- Wage Garnishment in Tennessee [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/tennessee.html
+- Wage Garnishment in Texas [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/texas.html
+- Wage Garnishment in Utah [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/utah.html
+- Wage Garnishment in Vermont [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/vermont.html
+- Wage Garnishment in Virginia [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/virginia.html
+- Wage Garnishment in Washington [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/washington.html
+- Wage Garnishment in West Virginia [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/west-virginia.html
+- Wage Garnishment in Wisconsin [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/wisconsin.html
+- Wage Garnishment in Wyoming [2026]: Limits, Exemptions, and How to Stop It: https://garnishedwages.org/states/wyoming.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
